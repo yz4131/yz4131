@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently a Master student from Columbia University.
+
 <!--
 **yz4131/yz4131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
